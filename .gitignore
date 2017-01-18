@@ -1,5 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
-android-maps-utils-master.iml
+*.iml
 .gradle
 .idea
 /build
