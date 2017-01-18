@@ -2,13 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1215842-9528-47bb-8339-f8d2e5ba7e22" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/debug.keystore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/drawable-xhdpi/gran.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/drawable-xhdpi/john.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/drawable-xhdpi/mechanic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/drawable-xhdpi/ruth.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/drawable-xhdpi/stefan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/drawable-xhdpi/teacher.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/drawable-xhdpi/turtle.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/drawable-xhdpi/walter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/drawable-xhdpi/yeats.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CONTRIBUTORS.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/layout/distance_demo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/layout/geojson_demo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/layout/heatmaps_demo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/layout/kml_demo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/layout/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/layout/map.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/layout/multi_profile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/layout/places_demo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/raw/campus.kml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/raw/earthquakes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/raw/medicare.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/raw/police.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/raw/radar_search.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/values-v11/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/values/dimensions.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/BaseDemoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/BigClusteringDemoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/ClusteringDemoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/CustomMarkerClusteringDemoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/DistanceDemoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/GeoJsonDemoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/HeatmapsDemoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/HeatmapsPlacesDemoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/IconGeneratorDemoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/KmlDemoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/MultiDrawable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/MyItemReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/PolyDecodeDemoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/PolySimplifyDemoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/TileProviderAndProjectionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/model/MyItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/model/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/clustering/Cluster.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/clustering/algo/NonHierarchicalDistanceBasedAlgorithm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/clustering/view/DefaultClusterRenderer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/quadtree/PointQuadTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/quadtree/PointQuadTreeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_base_9_6_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_basement_9_6_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_maps_9_6_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_tasks_9_6_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_24_0_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_24_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/androidTest/debug/com/google/maps/android/test/BuildConfig.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/debug/com/google/maps/android/BuildConfig.java" afterPath="" />
@@ -1648,124 +1705,130 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/build/outputs/aar/android-maps-utils-debug.aar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/build/outputs/aar/android-maps-utils-release.aar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/library.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/amu_bubble_mask.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/amu_bubble_shadow.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/amu_bubble_mask.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/amu_bubble_shadow.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/amu_info_window.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/amu_text_bubble.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/amu_webview.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_ballon_gx_prefix.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_basic_folder.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_basic_placemark.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_cdata.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_default_balloon.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_document_nest.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_draw_order_ground_overlay.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_extended_data.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_ground_overlay.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_ground_overlay_color.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_inline_style.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_multigeometry_placemarks.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_multiple_placemarks.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_nested_folders.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_nested_multigeometry.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_poly_style_boolean_alpha.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_poly_style_boolean_numeric.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_unknwown_folder.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_unsupported.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/amu_visibility_ground_overlay.kml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values/ids.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/MarkerManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/MathUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/PolyUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/SphericalUtil.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/Cluster.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/ClusterItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/ClusterManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/algo/Algorithm.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/algo/GridBasedAlgorithm.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/algo/NonHierarchicalDistanceBasedAlgorithm.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/algo/PreCachingAlgorithmDecorator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/algo/StaticCluster.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/view/ClusterRenderer.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/view/DefaultClusterRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/BiMultiMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonFeature.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonGeometry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonGeometryCollection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonLayer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonLineString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonLineStringStyle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonMultiLineString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonMultiPoint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonMultiPolygon.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonPoint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonPointStyle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonPolygon.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonPolygonStyle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonStyle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geometry/Bounds.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geometry/Point.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/heatmaps/Gradient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/heatmaps/HeatmapTileProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/heatmaps/WeightedLatLng.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlBoolean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlContainer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlContainerParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlFeatureParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlGeometry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlGroundOverlay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlLayer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlLineString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlMultiGeometry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlPlacemark.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlPoint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlPolygon.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlStyle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlStyleParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/projection/Point.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/projection/SphericalMercatorProjection.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/quadtree/PointQuadTree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/ui/BubbleDrawable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/ui/BubbleIconFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/ui/IconGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/ui/RotationLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/ui/SquareTextView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/PolyUtilTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/SphericalUtilTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/clustering/QuadItemTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/clustering/StaticClusterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/BiMultiMapTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonFeatureTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonLayerTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonLineStringStyleTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonLineStringTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonMultiLineStringTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonMultiPointTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonMultiPolygonTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonParserTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonPointStyleTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonPointTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonPolygonStyleTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonPolygonTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonRendererTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/heatmaps/GradientTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/heatmaps/UtilTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlContainerParserTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlFeatureParserTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlLineStringTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlMultiGeometryTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlParserTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlPolygonTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlRendererTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlStyleTest.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/quadtree/PointQuadTreeTest.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/AndroidManifest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/amu_bubble_mask.9.png" afterPath="$PROJECT_DIR$/library/res/drawable-xhdpi/amu_bubble_mask.9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/amu_bubble_shadow.9.png" afterPath="$PROJECT_DIR$/library/res/drawable-xhdpi/amu_bubble_shadow.9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/amu_bubble_mask.9.png" afterPath="$PROJECT_DIR$/library/res/drawable-xxhdpi/amu_bubble_mask.9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/amu_bubble_shadow.9.png" afterPath="$PROJECT_DIR$/library/res/drawable-xxhdpi/amu_bubble_shadow.9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/layout/amu_info_window.xml" afterPath="$PROJECT_DIR$/library/res/layout/amu_info_window.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/layout/amu_text_bubble.xml" afterPath="$PROJECT_DIR$/library/res/layout/amu_text_bubble.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/layout/amu_webview.xml" afterPath="$PROJECT_DIR$/library/res/layout/amu_webview.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_ballon_gx_prefix.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_ballon_gx_prefix.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_basic_folder.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_basic_folder.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_basic_placemark.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_basic_placemark.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_cdata.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_cdata.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_default_balloon.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_default_balloon.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_document_nest.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_document_nest.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_draw_order_ground_overlay.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_draw_order_ground_overlay.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_extended_data.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_extended_data.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_ground_overlay.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_ground_overlay.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_ground_overlay_color.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_ground_overlay_color.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_inline_style.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_inline_style.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_multigeometry_placemarks.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_multigeometry_placemarks.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_multiple_placemarks.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_multiple_placemarks.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_nested_folders.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_nested_folders.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_nested_multigeometry.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_nested_multigeometry.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_poly_style_boolean_alpha.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_poly_style_boolean_alpha.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_poly_style_boolean_numeric.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_poly_style_boolean_numeric.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_unknwown_folder.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_unknwown_folder.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_unsupported.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_unsupported.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/raw/amu_visibility_ground_overlay.kml" afterPath="$PROJECT_DIR$/library/res/raw/amu_visibility_ground_overlay.kml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/values/ids.xml" afterPath="$PROJECT_DIR$/library/res/values/ids.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/values/styles.xml" afterPath="$PROJECT_DIR$/library/res/values/styles.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/MarkerManager.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/MarkerManager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/MathUtil.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/MathUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/PolyUtil.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/PolyUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/SphericalUtil.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/SphericalUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/ClusterItem.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/clustering/ClusterItem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/ClusterManager.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/clustering/ClusterManager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/algo/Algorithm.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/clustering/algo/Algorithm.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/algo/GridBasedAlgorithm.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/clustering/algo/GridBasedAlgorithm.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/algo/PreCachingAlgorithmDecorator.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/clustering/algo/PreCachingAlgorithmDecorator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/algo/StaticCluster.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/clustering/algo/StaticCluster.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/clustering/view/ClusterRenderer.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/clustering/view/ClusterRenderer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/BiMultiMap.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/BiMultiMap.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonFeature.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonFeature.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonGeometry.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonGeometry.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonGeometryCollection.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonGeometryCollection.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonLayer.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonLayer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonLineString.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonLineString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonLineStringStyle.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonLineStringStyle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonMultiLineString.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonMultiLineString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonMultiPoint.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonMultiPoint.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonMultiPolygon.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonMultiPolygon.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonParser.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonParser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonPoint.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonPoint.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonPointStyle.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonPointStyle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonPolygon.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonPolygon.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonPolygonStyle.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonPolygonStyle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonRenderer.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonRenderer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geojson/GeoJsonStyle.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geojson/GeoJsonStyle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geometry/Bounds.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geometry/Bounds.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/geometry/Point.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/geometry/Point.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/heatmaps/Gradient.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/heatmaps/Gradient.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/heatmaps/HeatmapTileProvider.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/heatmaps/HeatmapTileProvider.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/heatmaps/WeightedLatLng.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/heatmaps/WeightedLatLng.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlBoolean.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlBoolean.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlContainer.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlContainer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlContainerParser.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlContainerParser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlFeatureParser.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlFeatureParser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlGeometry.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlGeometry.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlGroundOverlay.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlGroundOverlay.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlLayer.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlLayer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlLineString.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlLineString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlMultiGeometry.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlMultiGeometry.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlParser.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlParser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlPlacemark.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlPlacemark.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlPoint.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlPoint.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlPolygon.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlPolygon.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlRenderer.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlRenderer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlStyle.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlStyle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/kml/KmlStyleParser.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/kml/KmlStyleParser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/projection/Point.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/projection/Point.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/projection/SphericalMercatorProjection.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/projection/SphericalMercatorProjection.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/ui/BubbleDrawable.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/ui/BubbleDrawable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/ui/BubbleIconFactory.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/ui/BubbleIconFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/ui/IconGenerator.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/ui/IconGenerator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/ui/RotationLayout.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/ui/RotationLayout.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/google/maps/android/ui/SquareTextView.java" afterPath="$PROJECT_DIR$/library/src/com/google/maps/android/ui/SquareTextView.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/PolyUtilTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/PolyUtilTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/SphericalUtilTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/SphericalUtilTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/clustering/QuadItemTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/clustering/QuadItemTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/clustering/StaticClusterTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/clustering/StaticClusterTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/BiMultiMapTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/geojson/BiMultiMapTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonFeatureTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/geojson/GeoJsonFeatureTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonLayerTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/geojson/GeoJsonLayerTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonLineStringStyleTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/geojson/GeoJsonLineStringStyleTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonLineStringTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/geojson/GeoJsonLineStringTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonMultiLineStringTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/geojson/GeoJsonMultiLineStringTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonMultiPointTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/geojson/GeoJsonMultiPointTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonMultiPolygonTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/geojson/GeoJsonMultiPolygonTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonParserTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/geojson/GeoJsonParserTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonPointStyleTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/geojson/GeoJsonPointStyleTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonPointTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/geojson/GeoJsonPointTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonPolygonStyleTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/geojson/GeoJsonPolygonStyleTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonPolygonTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/geojson/GeoJsonPolygonTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/geojson/GeoJsonRendererTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/geojson/GeoJsonRendererTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/heatmaps/GradientTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/heatmaps/GradientTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/heatmaps/UtilTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/heatmaps/UtilTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlContainerParserTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/kml/KmlContainerParserTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlFeatureParserTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/kml/KmlFeatureParserTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlLineStringTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/kml/KmlLineStringTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlMultiGeometryTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/kml/KmlMultiGeometryTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlParserTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/kml/KmlParserTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlPolygonTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/kml/KmlPolygonTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlRendererTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/kml/KmlRendererTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/src/com/google/maps/android/kml/KmlStyleTest.java" afterPath="$PROJECT_DIR$/library/tests/src/com/google/maps/android/kml/KmlStyleTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
@@ -4495,14 +4558,7 @@
     </navigator>
     <panes>
       <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testJitpack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
       <pane id="PackagesPane" />
       <pane id="AndroidView">
@@ -4843,7 +4899,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="999" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -4865,7 +4921,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Fabric" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
