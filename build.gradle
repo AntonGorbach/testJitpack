@@ -1,142 +1,35 @@
-apply plugin: 'com.android.library'
-apply plugin: 'maven'
-apply plugin: 'signing'
 
-archivesBaseName = 'android-maps-utils'
-group = 'com.github.AntonGorbach'
 
-dependencies {
-    compile 'com.google.android.gms:play-services-maps:9.6.1'
-}
 buildscript {
     repositories {
-        mavenCentral()
+        jcenter()
     }
+
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.2.3'
+        classpath 'com.android.tools.build:gradle:2.1.2'
     }
 }
 
-android {
-    compileSdkVersion 24
-    buildToolsVersion "23.0.3"
-
-    resourcePrefix 'amu_'
-
-    sourceSets {
-        main {
-            manifest.srcFile 'AndroidManifest.xml'
-            java.srcDirs = ['src']
-            res.srcDirs = ['res']
-        }
-
-        androidTest {
-            java.srcDirs = ['tests/src']
-        }
-    }
-
-    // This enables long timeouts required on slow environments, e.g. Travis
-    adbOptions {
-        timeOutInMs 10 * 60 * 1000  // 10 minutes
-        installOptions "-d","-t"
-    }
-
-}
-
-task instrumentTest(dependsOn: connectedCheck)
-
-task apklib(type: Zip) {
-    dependsOn 'check'
-    appendix = extension = 'apklib'
-
-    from 'AndroidManifest.xml'
-    into('res') {
-        from 'res'
-    }
-    into('src') {
-        from 'src'
-    }
-}
-
-artifacts {
-    archives apklib
-}
-
-task sourcesJar(type: Jar) {
-    from android.sourceSets.main.java.srcDirs
-    classifier = 'sources'
-}
-
-signing {
-    sign configurations.archives
-}
-
-if (!hasProperty("sonatypeUsername")) {
-    sonatypeUsername = ""
-}
-if (!hasProperty("sonatypePassword")) {
-    sonatypePassword = ""
-}
-
-uploadArchives {
+allprojects {
     repositories {
-        mavenDeployer {
-            beforeDeployment { MavenDeployment deployment -> signing.signPom(deployment) }
-
-            repository(url: 'https://oss.sonatype.org/service/local/staging/deploy/maven2') {
-                authentication(userName: sonatypeUsername, password: sonatypePassword)
-            }
-            snapshotRepository(url: 'https://oss.sonatype.org/content/repositories/snapshots/') {
-                authentication(userName: sonatypeUsername, password: sonatypePassword)
-            }
-
-            modifyPom(addFilter('aar') { artifact, file ->
-                artifact.name == 'android-maps-utils'
-            })
-
-            modifyPom(addFilter('apklib') { artifact, file ->
-                artifact.name == 'android-maps-utils-apklib'
-            })
-
-            // There's no official apklib for Google Play services, so we
-            // can't really maintain that dependency for the apklib packaging.
-            pom('apklib').whenConfigured { pom ->
-                pom.dependencies = []
-            }
-        }
+        mavenLocal()
+        jcenter()
     }
 }
 
-def modifyPom(pom) {
-    pom.project {
-        name 'Google Maps Android API utility library'
-        description 'Handy extensions to the Google Maps Android API.'
-        url 'https://github.com/googlemaps/android-maps-utils'
+/**
+ * Improve build server performance by allowing disabling of pre-dexing
+ * (see http://tools.android.com/tech-docs/new-build-system/tips#TOC-Improving-Build-Server-performance.)
+ */
+project.ext.preDexLibs = !project.hasProperty('disablePreDex')
 
-        scm {
-            url 'scm:git@github.com:googlemaps/android-maps-utils.git'
-            connection 'scm:git@github.com:googlemaps/android-maps-utils.git'
-            developerConnection 'scm:git@github.com:googlemaps/android-maps-utils.git'
-        }
-
-        licenses {
-            license {
-                name 'The Apache Software License, Version 2.0'
-                url 'http://www.apache.org/licenses/LICENSE-2.0.txt'
-                distribution 'repo'
-            }
-        }
-
-        organization {
-            name 'Google Inc'
-            url 'http://developers.google.com/maps'
-        }
-
-        developers {
-            developer {
-                id 'broady'
-                name 'Chris Broadfoot'
-                url 'http://google.com/+ChristopherBroadfoot'
+subprojects {
+    project.plugins.whenPluginAdded { plugin ->
+        if (rootProject.ext.has('preDexLibs')) {
+            if ("com.android.build.gradle.AppPlugin".equals(plugin.class.name)) {
+                project.android.dexOptions.preDexLibraries = rootProject.ext.preDexLibs
+            } else if ("com.android.build.gradle.LibraryPlugin".equals(plugin.class.name)) {
+                project.android.dexOptions.preDexLibraries = rootProject.ext.preDexLibs
             }
         }
     }
