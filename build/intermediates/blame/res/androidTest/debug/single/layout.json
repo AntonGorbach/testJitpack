@@ -4,6 +4,18 @@
         "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/layout/amu_webview.xml"
     },
     {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/layout/amu_info_window.xml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/layout/amu_info_window.xml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/layout/amu_webview.xml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/layout/amu_webview.xml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/layout/amu_text_bubble.xml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/layout/amu_text_bubble.xml"
+    },
+    {
         "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/layout/amu_text_bubble.xml",
         "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/layout/amu_text_bubble.xml"
     },
