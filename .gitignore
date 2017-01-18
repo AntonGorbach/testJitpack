@@ -1,11 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
-*.iml
+android-maps-utils-master.iml
 .gradle
 .idea
+/build
+/demo/build
 local.properties
-.DS_Store
-
-app/build/
 build/
-captures/
-.externalNativeBuild
+
