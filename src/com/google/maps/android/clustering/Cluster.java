@@ -27,6 +27,6 @@ public interface Cluster<T extends ClusterItem> {
     public LatLng getPosition();
 
     Collection<T> getItems();
-
+//ss
     int getSize();
 }

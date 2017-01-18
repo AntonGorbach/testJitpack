@@ -1,7 +1,7 @@
 [
     {
-        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_cdata.kml",
-        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_cdata.kml"
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_visibility_ground_overlay.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_visibility_ground_overlay.kml"
     },
     {
         "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_extended_data.kml",
@@ -10,6 +10,86 @@
     {
         "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_poly_style_boolean_numeric.kml",
         "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_document_nest.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_document_nest.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_unsupported.kml",
+        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_unsupported.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_draw_order_ground_overlay.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_multigeometry_placemarks.kml",
+        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_ballon_gx_prefix.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_visibility_ground_overlay.kml",
+        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_document_nest.kml",
+        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_document_nest.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_basic_folder.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_basic_folder.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_nested_folders.kml",
+        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_nested_folders.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_ground_overlay_color.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_ground_overlay_color.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_inline_style.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_inline_style.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_basic_placemark.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_basic_placemark.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_inline_style.kml",
+        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_inline_style.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_multiple_placemarks.kml",
+        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_multiple_placemarks.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_poly_style_boolean_alpha.kml",
+        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_unsupported.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_unsupported.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_unknwown_folder.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_unknwown_folder.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_basic_folder.kml",
+        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_basic_folder.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_cdata.kml",
+        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_cdata.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_multigeometry_placemarks.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_multigeometry_placemarks.kml"
     },
     {
         "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_basic_placemark.kml",
@@ -24,16 +104,16 @@
         "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_ground_overlay.kml"
     },
     {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_nested_multigeometry.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_nested_multigeometry.kml"
+    },
+    {
         "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_ground_overlay_color.kml",
         "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_ground_overlay_color.kml"
     },
     {
-        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_unsupported.kml",
-        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_unsupported.kml"
-    },
-    {
-        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_multigeometry_placemarks.kml",
-        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_multigeometry_placemarks.kml"
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_cdata.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_cdata.kml"
     },
     {
         "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_draw_order_ground_overlay.kml",
@@ -44,28 +124,12 @@
         "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_nested_multigeometry.kml"
     },
     {
-        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_visibility_ground_overlay.kml",
-        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_visibility_ground_overlay.kml"
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_poly_style_boolean_alpha.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_poly_style_boolean_alpha.kml"
     },
     {
-        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_document_nest.kml",
-        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_document_nest.kml"
-    },
-    {
-        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_nested_folders.kml",
-        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_nested_folders.kml"
-    },
-    {
-        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_inline_style.kml",
-        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_inline_style.kml"
-    },
-    {
-        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_poly_style_boolean_alpha.kml",
-        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_poly_style_boolean_alpha.kml"
-    },
-    {
-        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_multiple_placemarks.kml",
-        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_multiple_placemarks.kml"
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_default_balloon.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_default_balloon.kml"
     },
     {
         "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_ballon_gx_prefix.kml",
@@ -76,7 +140,23 @@
         "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_unknwown_folder.kml"
     },
     {
-        "merged": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/res/merged/androidTest/debug/raw/amu_basic_folder.kml",
-        "source": "/Users/antongorbach/AndroidStudioProjects/tabata-android-sdk/library/build/intermediates/bundles/debug/res/raw/amu_basic_folder.kml"
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_nested_folders.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_nested_folders.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_multiple_placemarks.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_multiple_placemarks.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_ground_overlay.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_ground_overlay.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_extended_data.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_extended_data.kml"
+    },
+    {
+        "merged": "/Users/antongorbach/testJitpack/build/intermediates/res/merged/androidTest/debug/raw/amu_poly_style_boolean_numeric.kml",
+        "source": "/Users/antongorbach/testJitpack/build/intermediates/bundles/debug/res/raw/amu_poly_style_boolean_numeric.kml"
     }
 ]
