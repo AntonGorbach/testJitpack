@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'maven'
-apply plugin: 'signing'
+//apply plugin: 'signing'
 
 archivesBaseName = 'android-maps-utils'
 group = 'com.google.maps.android'
@@ -59,9 +59,9 @@ task sourcesJar(type: Jar) {
     classifier = 'sources'
 }
 
-signing {
-    sign configurations.archives
-}
+//signing {
+//    sign configurations.archives
+//}
 
 if (!hasProperty("sonatypeUsername")) {
     sonatypeUsername = ""
